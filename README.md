@@ -5,7 +5,7 @@ This repository contains the projects and exercises that my teams and I have com
 ## Quick Start
 
 1. Clone the repository
-2. Install Anaconda and use the following commands to create a new environment from the requirements.txt file
+2. Install [Anaconda](https://docs.anaconda.com/free/anaconda/install/) and use the following commands to create a new environment from the requirements.txt file
 This will ensure that you have all the necessary packages installed in the new environment:
 
     ```
